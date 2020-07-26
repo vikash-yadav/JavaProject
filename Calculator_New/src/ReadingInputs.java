@@ -1,6 +1,14 @@
 import java.util.Scanner;
 
 public class ReadingInputs {
+	
+	public String readInputString(String message) {
+		return "Dummy Value";
+	}
+	
+	public int readInputNumber(String message) {
+		return 0;
+	}
 
 	public static void OtherMethod() {
 
